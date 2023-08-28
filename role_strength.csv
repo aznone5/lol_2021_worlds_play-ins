@@ -1,0 +1,6 @@
+position,total_kills,total_deaths,total_assists,kda_ratio,avg_creep_score,avg_gold_earned,avg_champion_damage_share,avg_kill_participation,avg_wards_placed,avg_wards_destroyed,avg_wards_interacted
+Adc,170,95,215,4.05,280,13058,0.27,0.63,14.0,9.3,23.4
+Support,27,125,363,3.12,41,7218,0.07,0.66,46.8,11.0,57.7
+Mid,112,114,225,2.96,260,12025,0.24,0.57,13.1,6.2,19.3
+Top,161,124,194,2.86,238,12249,0.24,0.57,12.3,6.2,18.5
+Jungle,126,140,250,2.69,183,10491,0.18,0.62,11.2,10.8,22.0
